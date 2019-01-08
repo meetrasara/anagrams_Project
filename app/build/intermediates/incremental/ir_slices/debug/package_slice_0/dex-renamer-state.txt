@@ -1,0 +1,4 @@
+#Fri Jan 04 11:43:00 EST 2019
+base.0=/Users/demouser/Downloads/anagrams_starter/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
